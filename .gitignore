@@ -4,5 +4,9 @@ package-lock.json
 ## node_modules
 node_modules
 
+## webpack
+dist/bundle.js
+
 ## env
-.env
+src/env.js
+bin/env.sh
