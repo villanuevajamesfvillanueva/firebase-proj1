@@ -1,0 +1,5 @@
+> I was trying to find a way to hide firebaseConfig details in a .env file
+  but it seems like the browser can't access its contents
+    - I was able to find this workaround https://www.simonewebdesign.it/how-to-get-environment-variables-in-the-browser/
+      and successfully implemented it
+    - I then put the shell script and output js file in the .gitignore
